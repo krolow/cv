@@ -102,7 +102,7 @@ I've also worked as a project leader for some big projects, where I got the addi
 
 Owner and Software developer, mainly working with web development based on CakePHP for small sites.
 
-** Developer - Wvtrês** (November 2005 - January 2008)
+**Developer - Wvtrês** (November 2005 - January 2008)
 
 Working in several web site for local business, using CakePHP, Template Power.
 
