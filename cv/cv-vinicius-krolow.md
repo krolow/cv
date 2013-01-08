@@ -85,7 +85,7 @@ Head of the Backend team been responsible for the follow activities:
 * Definition metrics for the code;
 
 
-**Project Leader - Conrad Caine GmbH** (March 2008 - Present)
+**Developer and Project Leader - Conrad Caine GmbH** (March 2008 - Present)
 
 
 Working as a programmer mainly in PHP and Javascript.
