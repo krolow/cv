@@ -7,7 +7,8 @@
 
 ##Objective
 
-Work as a software engineer, in web development. Always seeking for performance and well structure design architectures for applications, always learning, improving and using new technologies, languages and tools.
+Work as a software engineer/team leader, in web development. 
+I'm always seeking for performance and well structure design architectures for applications, always learning, improving and using new technologies, languages and tools. Everything in order to accomplish the needs of customers and projects.
 
 ##Skills
 
@@ -20,7 +21,7 @@ Work as a software engineer, in web development. Always seeking for performance 
 **Version Control**: GIT, SVN and CVS<br />
 **Test Tools:** Behat, PHPUnit<br />
 **IDE:** Vim, GVIM, Eclipse, Sublime Text 2, Textmate<br />
-**CMS:** Wordpress, Drupal<br />
+**CMS:** Wordpress, Drupal, Typo3<br />
 
 
 ##Education
@@ -30,7 +31,11 @@ Work as a software engineer, in web development. Always seeking for performance 
 
 ##Professional Experience
 
-**Software Engineer and Head of backend Team - Conrad Caine GmbH** (December 2012 - Present)
+####Cake Development Coorporation (February 2013 - present)
+
+Working as developer using the CakePHP framework. For a differents kind of customers and applications.
+
+####Software Engineer and Head of backend Team - Conrad Caine GmbH (December 2010 - January 2013)
 
 Working as a software engineer in the backend team, developing using different languages, and also in different business areas.
 
@@ -66,44 +71,47 @@ Working as a software engineer in the backend team, developing using different l
 * Socket.io
 * Express
 
+**In addition of programmer role I was also resposible for:**
 
-I've been responsible also for analysis and creation of architecture of projects.
+* Analysis and creation of project architecture;
+* Consultant for the other teams about web development;
+* Defination of technologies to use;
+* Head of Backend;
 
-I've been working as a consultant for the other teams about general things of web development.
-
-
-Head of the Backend team been responsible for the follow activities:
+**Head of the Backend team been responsible for the follow activities:**
 
 * Project estimations;
 * Defining technologies to be used;
 * Allocation of resources;
 * Management of resources;
 * Hiring process;
-* Development of training for the team;
+* Development of training for the team members;
 * Development of assignments for the team  members;
 * Creation of standard code for the team;
 * Definition metrics for the code;
+* Introducing techonologies for the team;
+* Code review;
+* Project review;
 
 
-**Developer and Project Leader - Conrad Caine GmbH** (March 2008 - Present)
+####Developer and Project Leader - Conrad Caine GmbH (March 2008 - December 2010)
 
+Working as a programmer mainly using PHP and Javascript, for several disctint projects, distict by business logic and size.
 
-Working as a programmer mainly in PHP and Javascript.
+In those projects the most used frameworks were: CakePHP, Drupal and Zend.
 
-Developing different kind of projects in PHP, for different area, mainly using CakePHP, Drupal and Zend.
+In this period of time, I have worked as a Javascript programmer, for a big management application, In most pat of this time I have worked as the responsible for code refactor, in this application.
 
-I have also worked as a Javascript programmer, as a front-end engineer working in a big management application, mainly working as the responsible for the refactor of the code.
+I've also worked as a project leader for some big projects, where I got the additional role of control the team, and keep the development in the correct track.
 
-I've also worked as a project leader for some big projects, where I got the additional role of control the team, and keep the development on the rails.
+**Some of the technologies:** PHP, Javascript, Objective-C
 
-*Some of the technologies:* PHP, Javascript, Objective-C
-
-**Developer - Localhost TI** (November 2007 - March 2008)
+####Developer - Localhost TI (November 2007 - March 2008)
 
 Owner and Software developer, mainly working with web development based on CakePHP for small sites.
 
-**Developer - Wvtrês** (November 2005 - January 2008)
+####Developer - Wvtrês (November 2005 - January 2008)
 
 Working in several web site for local business, using CakePHP, Template Power.
 
-More than 20 websites development a long of this time.
+I got involved in the development of more than 20 websites a long of this time.
