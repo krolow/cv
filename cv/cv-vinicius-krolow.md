@@ -7,8 +7,9 @@
 
 ##Objective
 
-Work as a software engineer/team leader, in web development. 
-I'm always seeking for performance and well structure design architectures for applications, always learning, improving and using new technologies, languages and tools. Everything in order to accomplish the needs of customers and projects.
+Work as software enginer in the web development marketing. I'm always seeking for performance and well written software architectures. One of my main focus is for code with good readability, easy to mantain, decoupled and that is easy to extends. Always involved in learn new technologies, programming languages, tools and best pratices.
+
+I'm willing to join one team where mine characteristics can be apply in the work-daily, to always archive the customer needs.
 
 ##Skills
 
@@ -26,85 +27,129 @@ I'm always seeking for performance and well structure design architectures for a
 
 ##Education
 
-**2009 | Post graduation in Project Management**<br />
-**2007 | Graduation in Analysis and Development of Software**
+**2008-2009 | Graduation degree in Project Management**<br />
+**2004-2007 | Undergraduate degree in Software Analysis and Development**
 
 ##Professional Experience
 
-####Cake Development Coorporation (February 2013 - present)
+#### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - present)
 
-Working as developer using the CakePHP framework. For a differents kind of customers and applications.
+I've been working as a CakePHP developer and project leader for a variant of different customers and kind of projects, always looking for to apply the best practices in order to archive the feature requests from customers.
+
+* Open Source contributions
+* Code Reviews
+* Technical Designs
+* Customers Consultants
+* Development of Plugins
+* Front-end development
 
 ####Software Engineer and Head of backend Team - Conrad Caine GmbH (December 2010 - January 2013)
-
-Working as a software engineer in the backend team, developing using different languages, and also in different business areas.
-
-**Some of the projects areas:**
-
-* CMS
-* Blog
-* Facebook Apps
-* Crawlers
-* Games
-* Real time applications
-* REST API
-* Web apps
-
-**Some of the technologies:** 
-
-* PHP
-* Node.js
-* Python
-* Ruby
-* Objective-C
-* Javascript
-
-**Frameworks:**
-
-* CakePHP
-* Zend Framework 1
-* Symfony 2
-* Silex
-* Cilex
-* Rails
-* JQuery
-* Socket.io
-* Express
-
-**In addition of programmer role I was also resposible for:**
-
-* Analysis and creation of project architecture;
-* Consultant for the other teams about web development;
-* Defination of technologies to use;
-* Head of Backend;
-
-**Head of the Backend team been responsible for the follow activities:**
-
-* Project estimations;
-* Defining technologies to be used;
-* Allocation of resources;
-* Management of resources;
-* Hiring process;
-* Development of training for the team members;
-* Development of assignments for the team  members;
-* Creation of standard code for the team;
-* Definition metrics for the code;
-* Introducing techonologies for the team;
-* Code review;
-* Project review;
-
-
 ####Developer and Project Leader - Conrad Caine GmbH (March 2008 - December 2010)
 
-Working as a programmer mainly using PHP and Javascript, for several disctint projects, distict by business logic and size.
+I have started as a programmer at Conrad Caine, and i a short period of time i become a leader developer, and in the end of 2010, I have bocome as the head of Back-End team.
 
-In those projects the most used frameworks were: CakePHP, Drupal and Zend.
+**Here is some description of my work that I have done a long of this time:**
 
-In this period of time, I have worked as a Javascript programmer, for a big management application, In most pat of this time I have worked as the responsible for code refactor, in this application.
+I worked as a Head of Back-End Team, coordinating a team of +8 members, in the daily work I used to have the following tasks:
 
-I've also worked as a project leader for some big projects, where I got the additional role of control the team, and keep the development in the correct track.
+- Project Estimations (Front-End and Back-End estimations)
+- Resources Booking
+- Consulting services about technology for the other sectors (Mobile, Flash, Front-End, Sales Team)
+- Involvement in almost all company projects as a technology consulting
+- Hiring Processing
+- Projects coordination
+- Coordination of QA in projects
+- Creation and definition of workflows to be use in the Back-End development
+- Resources Assignments
+- Resources Evaluation
+- Integration of new processes to improve quality
+	- Code Standard
+	- Versioning patterns
+	- Unit Tests
+	- Continuos Integration
+	- Introduce of kanban process
+	- Applying some scrum process
+- Monitoring and Support for new team members
+- Code Reviews
+- Project Reviews
 
-**Some of the technologies:** PHP, Javascript, Objective-C
+
+In addition with the role of head of Back-End team, I worked as a Project Leader/Software Developer in this period in projects considered high risk and projects with major size:
+
+**As a project leader I used to have the following roles:**
+
+* Kickoff meetings with customers and project managers
+* Transform functional requirements in technical requirements
+* Helps project manager in project plans/project releases
+* Clarify requirements for the team members
+* Project architecture/design, I use to make the startup the projects to define a good structure for other team members follow
+* Transform functional requiriments in Technical requiriments
+*Integrate the development between different areas: Design, Front-End/Mobile, Backend
+
+
+As a software engineer I use to work a variant of different technologies and high level customers, some highlights for:
+
+**CMS Platforms:**
+
+* CakePHP: Allianz - Football for life
+* Drupal: Aeksh
+* Drupal: Malik
+* CakePHP - Baldessarini
+
+**Blog Platforms:**
+
+* Wordpress: Conrad-Caine Internal and External Blog
+* Wordpress: Allianz - Football for life
+* Wordpress: Siemens, for several sectors of siemens
+* Wordpress: Roodenstock
+
+**Facebook Apps:**
+
+* CakePHP and Silex: A variant of different apps for Sky
+* CakePHP: Siemens jobs offers (website parsers)
+* CakePHP: Roodenstock app
+* CakePHP: Ergo Handball apps
+
+**Yotube Channels:**
+
+* CakePHP: Siemens channels
+* CakePHP: Goodyear Dunlop
+
+**Websites/Apps:**
+
+* Symphony 2/Cilex: Quotendo - Bets crawler + website
+* CakePHP: Audi E-leraning game
+* Python/Flask: Cinema4d - Render server
+* CakePHP: Reputter - Facebook, Linkedin, Twitter, Google, Youtube, Flickr, MySpaces crawlers
+* CakePHP: Tuev-Sud
+* PHP Static Site generator: Siemens Landings Page
+* CakePHP: Service API for Siemens fair
+* CakePHP/Symphony2/PPT Parser: MI2GO API and PPT+PPTX conversor for visualization in mobile
+* CakePHP: Siemens Diversity Day
+* CakePHP: Siemens Diversity Charter
+* CakePHP: Siemens Diversity Tree
+* Silex: Siemens Annual Report
+* Magento: Brillenlovers E-commerce
+* Javascript: Bridge
+* .NET: Sales Adventure (Coca-Cola, BMW)
+* Zend Framework - SMS Reminder
+
+**Interactive Applications:**
+
+* Node.js + Mongodb + Express.js + Socket.io: Siemens - Interactive Screens (real time application + crawler system for: twitter, youtube, facebook, rss, etc...)
+* Node.js + Express.js + Socket.io: Siemens - Pacman game (mobile + big screen)
+
+**Mobile**
+
+* Objective-C: Siemens mobile app
+
+**Internal Management**
+
+* CakePHP: Yotube control for Siemens
+* CakePHP: Banners control for Siemens
+* Rails: Conrad Caine control
+
+And a lot of other differents projects, I'm always willing to improve the customers needs, and bring for customers code with a good security and quality.
 
 ####Developer - Localhost TI (November 2007 - March 2008)
 
@@ -112,6 +157,6 @@ Owner and Software developer, mainly working with web development based on CakeP
 
 ####Developer - Wvtrês (November 2005 - January 2008)
 
-Working in several web site for local business, using CakePHP, Template Power.
+Working in several web site for local business, using CakePHP and Template Power.
 
-I got involved in the development of more than 20 websites a long of this time.
+I got involved in the development of more than 20 websites a long of this time, most of the jobs are related with custom CMS creations to attend the customer needs.
