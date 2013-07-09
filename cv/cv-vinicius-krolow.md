@@ -8,8 +8,8 @@
 ##Objective
 
 Work as software enginer in the web development marketing. I'm always seeking for performance and well written software architectures. One of my main focus is for code with good readability, easy to mantain, decoupled and that is easy to extends. Always involved in learn new technologies, programming languages, tools and best pratices.
-
 I'm willing to join one team where mine characteristics can be apply in the work-daily, to always archive the customer needs.
+
 
 ##Skills
 
@@ -87,7 +87,7 @@ In addition with the role of head of Back-End team, I worked as a Project Leader
 *Integrate the development between different areas: Design, Front-End/Mobile, Backend
 
 
-As a software engineer I use to work a variant of different technologies and high level customers, some highlights for:
+As a **software engineer** I use to work a variant of different technologies and **high level customers**, some highlights for:
 
 **CMS Platforms:**
 
