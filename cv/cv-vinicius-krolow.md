@@ -32,7 +32,7 @@ I'm willing to join one team where mine characteristics can be apply in the work
 
 ##Professional Experience
 
-####Self Employeed - (February 2013 - current)
+####Self Employeed - (February 2014 - current)
 
 Working with several different techonologies for different kind of projects.
 
@@ -51,7 +51,7 @@ A part of that developing applications in:
 * Emberjs
 * Phonegap
 
-####Software Engineer - Conrad Caine GmbH (September 2013 - February 2013)
+####Software Engineer - Conrad Caine GmbH (September 2013 - February 2014)
 
 Working to make PPT rocks!
 
