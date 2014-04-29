@@ -32,7 +32,32 @@ I'm willing to join one team where mine characteristics can be apply in the work
 
 ##Professional Experience
 
-#### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - present)
+####Self Employeed - (February 2013 - current)
+
+Working with several different techonologies for different kind of projects.
+
+Mainly acting at parking software business working with:
+
+* CakePHP
+* Node.js
+* Angular
+* Bootstrap
+* Firebase
+
+A part of that developing applications in:
+
+* Symphony
+* Rails
+* Emberjs
+* Phonegap
+
+####Software Engineer - Conrad Caine GmbH (September 2013 - February 2013)
+
+Working to make PPT rocks!
+
+Converting PPT to display at IOS applications and building CMS/REST API to IOS apps consume.
+
+#### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - September 2013)
 
 I've been working as a CakePHP developer and project leader for a variant of different customers and kind of projects, always looking for to apply the best practices in order to archive the feature requests from customers.
 
