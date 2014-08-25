@@ -15,9 +15,10 @@ I'm willing to join one team where mine characteristics can be apply in the work
 
 **Programming:** <br />
 	**High knowledge:** PHP, JavaScript, Node.js, HTML, CSS, SQL<br />
-	**Middle knowledge:** Ruby, Python, C++ (Arduino)<br /><br />
+	**Middle knowledge:** Ruby, Python, C++ (Arduino), Puppet<br /><br />
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis<br />
 **Frameworks:** CakePHP, Zend, Symfony 2, Silex, Rails, Sinatra, Angularjs, Emberjs Django, Flask, Express.js, Socket.io, Jquery<br />
+**Provision:** Vagrant, Puppet<br />
 **Webservices** SOAP, REST<br />
 **Version Control**: GIT, SVN and CVS<br />
 **Test Tools:** Behat, PHPUnit<br />
@@ -46,6 +47,7 @@ Mainly acting at parking software business working using:
 * Angular
 * Bootstrap
 * Firebase
+* Vagrant / Puppet
 
 A part of that developing, parking applications, i have been developing applications in:
 
@@ -54,12 +56,23 @@ A part of that developing, parking applications, i have been developing applicat
 * Rails 4
 * Emberjs
 * Phonegap / Ionic
+* AWS, Heroku, vagrant, puppet
 
 ####Software Engineer - Conrad Caine GmbH (September 2013 - February 2014)
 
 Working to make PPT rocks!
 
 Converting PPT to display at IOS applications and building CMS/REST API to IOS apps consume.
+
+**Technologies:**
+
+* Symfony 2
+* CakePHP 2
+* Windows Popwerpoint COM
+* REST
+* MySQL
+* Vagrant
+* Puppet
 
 #### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - September 2013)
 
