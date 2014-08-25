@@ -26,7 +26,7 @@ I'm willing to join one team where mine characteristics can be apply in the work
 
 
 ##Education
-**2014-current | Masters degree in Computer Science -  distributed systems**
+**2014-current | Masters degree in Computer Science -  distributed systems**<br />
 **2008-2009 | Graduation degree in Project Management**<br />
 **2004-2007 | Undergraduate degree in Software Analysis and Development**
 
