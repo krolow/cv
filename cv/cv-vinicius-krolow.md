@@ -17,16 +17,16 @@ I'm willing to join one team where mine characteristics can be apply in the work
 	**High knowledge:** PHP, JavaScript, Node.js, HTML, CSS, SQL<br />
 	**Middle knowledge:** Ruby, Python, C++ (Arduino)<br /><br />
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis<br />
-**Frameworks:** CakePHP, Zend, Symfony 2, Silex, Rails, Sinatra, Django, Flask, Express.js, Socket.io, Jquery<br />
+**Frameworks:** CakePHP, Zend, Symfony 2, Silex, Rails, Sinatra, Angularjs, Emberjs Django, Flask, Express.js, Socket.io, Jquery<br />
 **Webservices** SOAP, REST<br />
 **Version Control**: GIT, SVN and CVS<br />
 **Test Tools:** Behat, PHPUnit<br />
-**IDE:** Vim, GVIM, Eclipse, Sublime Text 2, Textmate<br />
+**IDE:** Vim, Sublime, Atom<br />
 **CMS:** Wordpress, Drupal, Typo3<br />
 
 
 ##Education
-
+**2014-current | Masters degree in Computer Science -  distributed systems**
 **2008-2009 | Graduation degree in Project Management**<br />
 **2004-2007 | Undergraduate degree in Software Analysis and Development**
 
@@ -36,20 +36,24 @@ I'm willing to join one team where mine characteristics can be apply in the work
 
 Working with several different techonologies for different kind of projects.
 
-Mainly acting at parking software business working with:
+Mainly acting at parking software business working using:
 
 * CakePHP
 * Node.js
+* Express
+* Compoundb
+* Titanium
 * Angular
 * Bootstrap
 * Firebase
 
-A part of that developing applications in:
+A part of that developing, parking applications, i have been developing applications in:
 
-* Symphony
-* Rails
+* Symphony 2
+* Express
+* Rails 4
 * Emberjs
-* Phonegap
+* Phonegap / Ionic
 
 ####Software Engineer - Conrad Caine GmbH (September 2013 - February 2014)
 
