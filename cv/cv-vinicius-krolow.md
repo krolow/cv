@@ -7,8 +7,7 @@
 
 ##Objective
 
-Work as software enginer in the web development marketing. I'm always seeking for performance and well written software architectures. One of my main focus is for code with good readability, easy to mantain, decoupled and that is easy to extends. Always involved in learn new technologies, programming languages, tools and best pratices.
-I'm willing to join one team where mine characteristics can be apply in the work-daily, to always archive the customer needs.
+Work as software engineer in the web development marketing. I'm always seeking for performance and well written software architectures. One of my main focus is for code with good readability, easy to maintain, decoupled and that is easy to extends. Always involved in learn new technologies, programming languages, tools and best practices. I'm willing to join one team where mine characteristics can be apply in the work-daily, to always accomplish the customer/project needs.
 
 
 ##Skills
@@ -33,15 +32,16 @@ I'm willing to join one team where mine characteristics can be apply in the work
 
 ##Professional Experience
 
-####Self Employeed - (February 2014 - current)
+####Self Employed - (February 2014 - current)
 
-Working with several different techonologies for different kind of projects.
+Working with several different technologiesbe for different kind of projects.
 
-Mainly acting at parking software business working using:
+Mainly acting at parking software working using:
 
 * CakePHP
 * Node.js
 * Express
+* Javascript
 * Compoundb
 * Titanium
 * Angular
@@ -49,7 +49,7 @@ Mainly acting at parking software business working using:
 * Firebase
 * Vagrant / Puppet
 
-A part of that developing, parking applications, i have been developing applications in:
+A part of that specific application/technologies, i have been developing applications in:
 
 * Symphony 2
 * Express
@@ -88,7 +88,7 @@ I've been working as a CakePHP developer and project leader for a variant of dif
 ####Software Engineer and Head of backend Team - Conrad Caine GmbH (December 2010 - January 2013)
 ####Developer and Project Leader - Conrad Caine GmbH (March 2008 - December 2010)
 
-I have started as a programmer at Conrad Caine, and i a short period of time i become a leader developer, and in the end of 2010, I have bocome as the head of Back-End team.
+I have started as a programmer at Conrad Caine, and in a short period of time I've become a leader developer, and in the end of 2010, I have become the head of Back-End team.
 
 **Here is some description of my work that I have done a long of this time:**
 
@@ -191,7 +191,7 @@ As a **software engineer** I use to work a variant of different technologies and
 * CakePHP: Banners control for Siemens
 * Rails: Conrad Caine control
 
-And a lot of other differents projects, I'm always willing to improve the customers needs, and bring for customers code with a good security and quality.
+And a lot of other different projects, I'm always willing to improve the customers needs, and bring for customers code with a good security and quality.
 
 ####Developer - Localhost TI (November 2007 - March 2008)
 
