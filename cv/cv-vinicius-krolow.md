@@ -13,7 +13,7 @@ Work as software engineer in the web development marketing. I'm always seeking f
 ##Skills
 
 **Programming:** <br />
-	**High knowledge:** PHP, JavaScript, Node.js, HTML, CSS, SQL<br />
+	**High knowledge:** PHP, JavaScript, Node.js, Coffescript, HTML, CSS, SQL<br />
 	**Middle knowledge:** Ruby, Python, C++ (Arduino), Puppet<br /><br />
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis<br />
 **Frameworks:** CakePHP, Zend, Symfony 2, Silex, Rails, Sinatra, Angularjs, Emberjs Django, Flask, Express.js, Socket.io, Jquery<br />
@@ -32,7 +32,7 @@ Work as software engineer in the web development marketing. I'm always seeking f
 
 ##Professional Experience
 
-#### Chief Whatever Officer - Conrad Caine (October 2013 - current)
+#### Chief Whatever Officer - Conrad Caine (October 2014 - current)
 
 My role in company it's a bit general some parts of the work that i'm doing are:
 
@@ -141,7 +141,7 @@ In addition with the role of head of Back-End team, I worked as a Project Leader
 *Integrate the development between different areas: Design, Front-End/Mobile, Backend
 
 
-As a **software engineer** I use to work a variant of different technologies and **high level customers**, some highlights for:
+As a **developer** I use to work as part of development team in several **high level customers** and disticts technologies, some highlights for:
 
 **CMS Platforms:**
 
@@ -171,7 +171,7 @@ As a **software engineer** I use to work a variant of different technologies and
 
 **Websites/Apps:**
 
-* Symphony 2/Cilex: Quotendo - Bets crawler + website
+* Symphony 2/Cilex: Quotendo - Bets crawler/parser + website
 * CakePHP: Audi E-leraning game
 * Python/Flask: Cinema4d - Render server
 * CakePHP: Reputter - Facebook, Linkedin, Twitter, Google, Youtube, Flickr, MySpaces crawlers
