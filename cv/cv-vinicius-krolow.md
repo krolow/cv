@@ -32,6 +32,18 @@ Work as software engineer in the web development marketing. I'm always seeking f
 
 ##Professional Experience
 
+#### Chief Whatever Officer - Conrad Caine (October 2013 - current)
+
+My role in company it's a bit general some parts of the work that i'm doing are:
+
+* to help organization of company, supporting the CEO, CTO and COO to build processes and strategies to organize the Pelotas office;
+* to test/develop new technologies and new approaches that can be implement in projects;
+* support creative teams with technical insight to prepare for pitches;
+* to coach and improve the technical team;
+* to help with implementantion/development of tools to ensure quality and speedup the development;
+* to be a technical evangelist to spread the company name;
+
+
 ####Self Employed - (February 2014 - current)
 
 Working with several different technologiesbe for different kind of projects.
