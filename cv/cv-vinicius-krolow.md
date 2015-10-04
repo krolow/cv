@@ -2,28 +2,51 @@
 
 ####Contact
 
-**E-mail:** krolow@gmail.com
-**Mobile:** 55 5384175837
+**E-mail:** krolow@gmail.com<br />
+**Mobile:** 55 4891500225<br />
+**Site:** http://krolow.com.br<br />
+**Github:** https://github.com/krolow<br />
+**Linkedin:** https://linkedin.com/in/krolow<br />
+**Location:** Florianópolis - SC, Brazil
+
+
+I've been programming for over a decade and during that time, I'm always learning and teaching. My main focus is to write simple code, for me, simple code leads to, and is itself: reliable, maintainable and simple to read (good readability).
+
+I'm not a fan boy of any technology, but I like to learn new languages, techniques and technologies to be able to pick the best option for a given job.
+
+I can lead teams, and I can follow. I can work alone or in groups. I can architecture or follow others architectures.
+
+I'm totally passionate about what I do, I do it also as a hobby when I'm not working.
 
 ##Objective
 
-Work as software engineer in the web development marketing. I'm always seeking for performance and well written software architectures. One of my main focus is for code with good readability, easy to maintain, decoupled and that is easy to extends. Always involved in learn new technologies, programming languages, tools and best practices. I'm willing to join one team where mine characteristics can be apply in the work-daily, to always accomplish the customer/project needs.
+Work as full stack developer in a web development environment, to architecture and build software that matters.
 
+Be able to create great architectures that solve the problems, having performance and well written software as the goal.
 
-##Skills
+##Technologies
 
-**Programming:** <br />
-	**High knowledge:** PHP, JavaScript, Node.js, Coffescript, HTML, CSS, SQL<br />
-	**Middle knowledge:** Ruby, Python, C++ (Arduino), Puppet<br /><br />
-**Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis<br />
-**Frameworks:** CakePHP, Zend, Symfony 2, Silex, Rails, Sinatra, Angularjs, Emberjs Django, Flask, Express.js, Socket.io, Jquery<br />
-**Provision:** Vagrant, Puppet<br />
-**Webservices** SOAP, REST<br />
-**Version Control**: GIT, SVN and CVS<br />
-**Test Tools:** Behat, PHPUnit<br />
-**IDE:** Vim, Sublime, Atom<br />
-**CMS:** Wordpress, Drupal, Typo3<br />
+**Likes**: react, microservices, docker, node.js, ruby, rails, javascript, angular
+**Dislikes:** .net
 
+**Have used a lot for most projects:**
+
+* PHP (Symfony 2, CakePHP, Zend Framework, Silex, Drupal, Wordpress, Typo3)
+* Javascript (ES6/ES7) (Angular.js, Ember, React, Jquery)
+* Node.js
+* Coffescript
+* HTML / CSS
+
+**Have used more than once for projects:**
+
+* Java (Android)
+* Ruby (Rails, Sinatra)
+* Python (Django, Flask)
+* Puppet
+
+**Have used at least once:**
+
+* Objective-C (IOS)
 
 ##Education
 **2014-current | Masters degree in Computer Science -  distributed systems**<br />
@@ -32,9 +55,16 @@ Work as software engineer in the web development marketing. I'm always seeking f
 
 ##Professional Experience
 
-#### Chief Whatever Officer - Conrad Caine (October 2014 - current)
+#### Full Stack Software Developer - Bravi Software (May 2015 - Current)
 
-My role in company it's a bit general some parts of the work that i'm doing are:
+Acting as a full stack developer, helping to architecture and develop the companies products,
+using micro-services architectures, that running into docker containers, with automation of tests/deploy by continuous integration.
+
+**Some parts of stack are:** Nodejs, Java (Android), Javascrit, React.js, Docker, Pgsql, RabbitMQ, MongoDB.
+
+#### Chief Whatever Officer - Conrad Caine (October 2014 - April 2015)
+
+My role in company it's a bit general some parts of the work that i was doing were:
 
 * to help organization of company, supporting the CEO, CTO and COO to build processes and strategies to organize the Pelotas office;
 * to test/develop new technologies and new approaches that can be implement in projects;
@@ -43,48 +73,28 @@ My role in company it's a bit general some parts of the work that i'm doing are:
 * to help with implementantion/development of tools to ensure quality and speedup the development;
 * to be a technical evangelist to spread the company name;
 
+**Some parts of stack used to automated tools in company:** Node.js, Coffescript, Riak, Angular.js, MongoDB, Microservices
 
-####Self Employed - (February 2014 - current)
 
-Working with several different technologiesbe for different kind of projects.
+####Full Stack Software Developer - Freelance (February 2014 - current)
 
-Mainly acting at parking software working using:
+* Consulting on software development
+* Architecture of web applications
+* Development of web applications
+* Development of mobile applications
+* Development of back-end applications
 
-* CakePHP
-* Node.js
-* Express
-* Javascript
-* Compoundb
-* Titanium
-* Angular
-* Bootstrap
-* Firebase
-* Vagrant / Puppet
+**Some parts of stack are:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Vagrant
 
-A part of that specific application/technologies, i have been developing applications in:
-
-* Symphony 2
-* Express
-* Rails 4
-* Emberjs
-* Phonegap / Ionic
-* AWS, Heroku, vagrant, puppet
 
 ####Software Engineer - Conrad Caine GmbH (September 2013 - February 2014)
 
-Working to make PPT rocks!
+I've worked in a powerpoint convert tool, i was responsible to create a new architecture, for the CMS and convert process.
 
-Converting PPT to display at IOS applications and building CMS/REST API to IOS apps consume.
+* Create the new convert process using distributed services
+* Create the new CMS architecture to reuse as much as possible the legacy code and enabling it to create new features and for multi tenancy environment.
 
-**Technologies:**
-
-* Symfony 2
-* CakePHP 2
-* Windows Popwerpoint COM
-* REST
-* MySQL
-* Vagrant
-* Puppet
+**Some parts of stack are:** PHP, Symfony 2, Javascript, Jquery, HTML, CSS, Silex, Cilex, Windows Powerpoint COM, REST, MySQL, Puppet, Vagrant
 
 #### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - September 2013)
 
@@ -97,120 +107,37 @@ I've been working as a CakePHP developer and project leader for a variant of dif
 * Development of Plugins
 * Front-end development
 
-####Software Engineer and Head of backend Team - Conrad Caine GmbH (December 2010 - January 2013)
-####Developer and Project Leader - Conrad Caine GmbH (March 2008 - December 2010)
+**Some parts of stack are:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Croogo, MySQL, PgSQL, Node.js
+
+####Software Developer / Project Leader / Head of backend team - Conrad Caine GmbH (March 2008 - January 2013)
 
 I have started as a programmer at Conrad Caine, and in a short period of time I've become a leader developer, and in the end of 2010, I have become the head of Back-End team.
+During this time i've develop more than 50 apps/websites/blogs, most of them leading, architecturing, estimating, planning, hiring people, managing resources...
 
-**Here is some description of my work that I have done a long of this time:**
+* Technical Projects Architecture;
+* Projects Estimations;
+* Define technologies to be used;
+* Find and create new solutions improve the development process;
+* Lead Development Teams;
+* Control the Team work;
+* Control the Team projects;
+* Apply Training for the Backend Team;
+* Create assignments for the Backend Team;
+* Define standards for the team;
+* Create solutions for any task or problem that arises.
 
-I worked as a Head of Back-End Team, coordinating a team of +8 members, in the daily work I used to have the following tasks:
-
-- Project Estimations (Front-End and Back-End estimations)
-- Resources Booking
-- Consulting services about technology for the other sectors (Mobile, Flash, Front-End, Sales Team)
-- Involvement in almost all company projects as a technology consulting
-- Hiring Processing
-- Projects coordination
-- Coordination of QA in projects
-- Creation and definition of workflows to be use in the Back-End development
-- Resources Assignments
-- Resources Evaluation
-- Integration of new processes to improve quality
-	- Code Standard
-	- Versioning patterns
-	- Unit Tests
-	- Continuos Integration
-	- Introduce of kanban process
-	- Applying some scrum process
-- Monitoring and Support for new team members
-- Code Reviews
-- Project Reviews
-
-
-In addition with the role of head of Back-End team, I worked as a Project Leader/Software Developer in this period in projects considered high risk and projects with major size:
-
-**As a project leader I used to have the following roles:**
-
-* Kickoff meetings with customers and project managers
-* Transform functional requirements in technical requirements
-* Helps project manager in project plans/project releases
-* Clarify requirements for the team members
-* Project architecture/design, I use to make the startup the projects to define a good structure for other team members follow
-* Transform functional requiriments in Technical requiriments
-*Integrate the development between different areas: Design, Front-End/Mobile, Backend
-
-
-As a **developer** I use to work as part of development team in several **high level customers** and disticts technologies, some highlights for:
-
-**CMS Platforms:**
-
-* CakePHP: Allianz - Football for life
-* Drupal: Aeksh
-* Drupal: Malik
-* CakePHP - Baldessarini
-
-**Blog Platforms:**
-
-* Wordpress: Conrad-Caine Internal and External Blog
-* Wordpress: Allianz - Football for life
-* Wordpress: Siemens, for several sectors of siemens
-* Wordpress: Roodenstock
-
-**Facebook Apps:**
-
-* CakePHP and Silex: A variant of different apps for Sky
-* CakePHP: Siemens jobs offers (website parsers)
-* CakePHP: Roodenstock app
-* CakePHP: Ergo Handball apps
-
-**Yotube Channels:**
-
-* CakePHP: Siemens channels
-* CakePHP: Goodyear Dunlop
-
-**Websites/Apps:**
-
-* Symphony 2/Cilex: Quotendo - Bets crawler/parser + website
-* CakePHP: Audi E-leraning game
-* Python/Flask: Cinema4d - Render server
-* CakePHP: Reputter - Facebook, Linkedin, Twitter, Google, Youtube, Flickr, MySpaces crawlers
-* CakePHP: Tuev-Sud
-* PHP Static Site generator: Siemens Landings Page
-* CakePHP: Service API for Siemens fair
-* CakePHP/Symphony2/PPT Parser: MI2GO API and PPT+PPTX conversor for visualization in mobile
-* CakePHP: Siemens Diversity Day
-* CakePHP: Siemens Diversity Charter
-* CakePHP: Siemens Diversity Tree
-* Silex: Siemens Annual Report
-* Magento: Brillenlovers E-commerce
-* Javascript: Bridge
-* .NET: Sales Adventure (Coca-Cola, BMW)
-* Zend Framework - SMS Reminder
-
-**Interactive Applications:**
-
-* Node.js + Mongodb + Express.js + Socket.io: Siemens - Interactive Screens (real time application + crawler system for: twitter, youtube, facebook, rss, etc...)
-* Node.js + Express.js + Socket.io: Siemens - Pacman game (mobile + big screen)
-
-**Mobile**
-
-* Objective-C: Siemens mobile app
-
-**Internal Management**
-
-* CakePHP: Yotube control for Siemens
-* CakePHP: Banners control for Siemens
-* Rails: Conrad Caine control
-
-And a lot of other different projects, I'm always willing to improve the customers needs, and bring for customers code with a good security and quality.
+**Some parts of stack are:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Node.js, Python, Flask, Ruby, Rails, MySQL, PgSQL, REST, Symfony 2, Zend, Wordpress, Drupal, Typo3, Silex, Objective-C
 
 ####Developer - Localhost TI (November 2007 - March 2008)
 
 Owner and Software developer, mainly working with web development based on CakePHP for small sites.
+
+**Some parts of stack are:** PHP, CakePHP
 
 ####Developer - Wvtrês (November 2005 - January 2008)
 
 Working in several web site for local business, using CakePHP and Template Power.
 
 I got involved in the development of more than 20 websites a long of this time, most of the jobs are related with custom CMS creations to attend the customer needs.
+
+**Some parts of stack are:** PHP 4, CakePHP, Javascript, Template Power
