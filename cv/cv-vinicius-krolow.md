@@ -86,6 +86,12 @@ My role in company it's a bit general some parts of the work that i was doing we
 
 **Some parts of stack are:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Vagrant
 
+####Full Stack Software Developer - Snapwire Innovations (September 2013 - August 2014)
+
+I worked as full stack developer, creating a new parking platform, been working remote with a distributed team, working in backend with node.js, front-end with angular/backbone, creating automation tools process to generate reports, realtime dashboards with firebase, and in the mobile side with titanium.
+
+**Some parts of stack are:** Phonegap / Ionic, Compoundb, Titanium, Firebase, Angular, Backbone, Node.js, Javascript, Jquery, MySQL
+
 
 ####Software Engineer - Conrad Caine GmbH (September 2013 - February 2014)
 
@@ -112,7 +118,7 @@ I've been working as a CakePHP developer and project leader for a variant of dif
 ####Software Developer / Project Leader / Head of backend team - Conrad Caine GmbH (March 2008 - January 2013)
 
 I have started as a programmer at Conrad Caine, and in a short period of time I've become a leader developer, and in the end of 2010, I have become the head of Back-End team.
-During this time i've develop more than 50 apps/websites/blogs, most of them leading, architecturing, estimating, planning, hiring people, managing resources...
+During this time i've develop more than 50 apps/websites/blogs, most of them leading, architecture, estimating, planning, hiring people, managing resources...
 
 * Technical Projects Architecture;
 * Projects Estimations;
