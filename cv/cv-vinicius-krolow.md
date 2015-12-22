@@ -27,14 +27,19 @@ Be able to create great architectures that solve the problems, having performanc
 ##Technologies
 
 **Likes**: react, microservices, docker, node.js, ruby, rails, javascript, angular
-**Dislikes:** .net
+**Dislikes:** .NET (But the .NET API looks good, unfortunally its related to windows env)
 
 **Have used a lot for most projects:**
 
 * PHP (Symfony 2, CakePHP, Zend Framework, Silex, Drupal, Wordpress, Typo3)
-* Javascript (ES6/ES7) (Angular.js, Ember, React, Jquery)
+* Javascript (ES6/ES7) (Angular.js, Ember, React, Redux, Jquery)
 * Node.js
 * Coffescript
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+* Docker
 * HTML / CSS
 
 **Have used more than once for projects:**
@@ -42,11 +47,20 @@ Be able to create great architectures that solve the problems, having performanc
 * Java (Android)
 * Ruby (Rails, Sinatra)
 * Python (Django, Flask)
+* ElasticSearch
+* Etcd
+* RabbitMQ
 * Puppet
 
 **Have used at least once:**
 
 * Objective-C (IOS)
+ 
+**Have been learning**
+
+* Elixir
+* Erlang
+* Go
 
 ##Education
 **2014-current | Masters degree in Computer Science -  distributed systems**<br />
@@ -60,7 +74,7 @@ Be able to create great architectures that solve the problems, having performanc
 Acting as a full stack developer, helping to architecture and develop the companies products,
 using micro-services architectures, that running into docker containers, with automation of tests/deploy by continuous integration.
 
-**Some parts of stack are:** Nodejs, Java (Android), Javascrit, React.js, Docker, Pgsql, RabbitMQ, MongoDB.
+**Some parts of stack are:** **Some parts of stack are:** Node.js, Java (Android), Javascrit, React, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic, Single app page.
 
 #### Chief Whatever Officer - Conrad Caine (October 2014 - April 2015)
 
