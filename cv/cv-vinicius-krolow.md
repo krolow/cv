@@ -26,8 +26,9 @@ Be able to create great architectures that solve the problems, having performanc
 
 ##Technologies
 
-**Likes**: react, microservices, docker, node.js, ruby, rails, javascript, angular<br />
-**Dislikes:** .NET (But the .NET API looks good, unfortunally its related to windows env)
+**Likes**: React, Nicroservices, Docker, Node.js, Ruby, Rails, Javascript, Angular<br />
+**Dislikes:** .NET (But the .NET API looks good, unfortunally its related to windows env)<br />
+**Willing to work:** Go, Elixir
 
 **Have used a lot for most projects:**
 
@@ -74,7 +75,9 @@ Be able to create great architectures that solve the problems, having performanc
 Acting as a full stack developer, helping to architecture and develop the companies products,
 using micro-services architectures, that running into docker containers, with automation of tests/deploy by continuous integration.
 
-**Some parts of stack are:** **Some parts of stack are:** Node.js, Java (Android), Javascrit, React, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic, Single app page.
+I've been using daily TDD, and willing to apply the best praticies to keep, code decouple and reusable, applying principles of DDD to keep boundary contexts in each microservice.
+
+**Some parts of stack are:** Node.js, Java (Android), Javascrit, React, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic, Single app page.
 
 #### Chief Whatever Officer - Conrad Caine (October 2014 - April 2015)
 
