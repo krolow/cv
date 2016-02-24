@@ -26,7 +26,7 @@ Be able to create great architectures that solve the problems, having performanc
 
 ##Technologies
 
-**Likes**: react, microservices, docker, node.js, ruby, rails, javascript, angular
+**Likes**: react, microservices, docker, node.js, ruby, rails, javascript, angular<br />
 **Dislikes:** .NET (But the .NET API looks good, unfortunally its related to windows env)
 
 **Have used a lot for most projects:**
