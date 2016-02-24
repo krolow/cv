@@ -77,7 +77,7 @@ using micro-services architectures, that running into docker containers, with au
 
 I've been using daily TDD, and willing to apply the best praticies to keep, code decouple and reusable, applying principles of DDD to keep boundary contexts in each microservice.
 
-**Some parts of stack are:** Node.js, Java (Android), Javascrit, React, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic, Single app page.
+**Stack:** Node.js, Java (Android), Javascrit, React, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic/Single app page, TDD.
 
 #### Chief Whatever Officer - Conrad Caine (October 2014 - April 2015)
 
@@ -90,7 +90,7 @@ My role in company it's a bit general some parts of the work that i was doing we
 * to help with implementantion/development of tools to ensure quality and speedup the development;
 * to be a technical evangelist to spread the company name;
 
-**Some parts of stack used to automated tools in company:** Node.js, Coffescript, Riak, Angular.js, MongoDB, Microservices
+**Stack:** Node.js, Coffescript, Riak, Angular.js, MongoDB, Microservices
 
 
 ####Full Stack Software Developer - Freelance (February 2014 - current)
@@ -101,13 +101,13 @@ My role in company it's a bit general some parts of the work that i was doing we
 * Development of mobile applications
 * Development of back-end applications
 
-**Some parts of stack are:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Vagrant
+**Stack:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Vagrant, Django, TDD
 
 ####Full Stack Software Developer - Snapwire Innovations (September 2013 - August 2014)
 
 I worked as full stack developer, creating a new parking platform, been working remote with a distributed team, working in backend with node.js, front-end with angular/backbone, creating automation tools process to generate reports, realtime dashboards with firebase, and in the mobile side with titanium.
 
-**Some parts of stack are:** Phonegap / Ionic, Compoundb, Titanium, Firebase, Angular, Backbone, Node.js, Javascript, Jquery, MySQL
+**Stack:** Phonegap / Ionic, Compoundb, Titanium, Firebase, Angular, Backbone, Node.js, Javascript, Jquery, MySQL
 
 
 ####Software Engineer - Conrad Caine GmbH (September 2013 - February 2014)
@@ -117,7 +117,7 @@ I've worked in a powerpoint convert tool, i was responsible to create a new arch
 * Create the new convert process using distributed services
 * Create the new CMS architecture to reuse as much as possible the legacy code and enabling it to create new features and for multi tenancy environment.
 
-**Some parts of stack are:** PHP, Symfony 2, Javascript, Jquery, HTML, CSS, Silex, Cilex, Windows Powerpoint COM, REST, MySQL, Puppet, Vagrant
+**Stack:** PHP, Symfony 2, Javascript, Jquery, HTML, CSS, Silex, Cilex, Windows Powerpoint COM, REST, MySQL, Puppet, Vagrant
 
 #### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - September 2013)
 
@@ -149,13 +149,13 @@ During this time i've develop more than 50 apps/websites/blogs, most of them lea
 * Define standards for the team;
 * Create solutions for any task or problem that arises.
 
-**Some parts of stack are:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Node.js, Python, Flask, Ruby, Rails, MySQL, PgSQL, REST, Symfony 2, Zend, Wordpress, Drupal, Typo3, Silex, Objective-C
+**Stack:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Node.js, Python, Flask, Ruby, Rails, MySQL, PgSQL, REST, Symfony 2, Zend, Wordpress, Drupal, Typo3, Silex, Objective-C
 
 ####Developer - Localhost TI (November 2007 - March 2008)
 
 Owner and Software developer, mainly working with web development based on CakePHP for small sites.
 
-**Some parts of stack are:** PHP, CakePHP
+**Stack:** PHP, CakePHP
 
 ####Developer - Wvtrês (November 2005 - January 2008)
 
@@ -163,4 +163,4 @@ Working in several web site for local business, using CakePHP and Template Power
 
 I got involved in the development of more than 20 websites a long of this time, most of the jobs are related with custom CMS creations to attend the customer needs.
 
-**Some parts of stack are:** PHP 4, CakePHP, Javascript, Template Power
+**Stack:** PHP 4, CakePHP, Javascript, Template Power
