@@ -20,7 +20,7 @@ I'm totally passionate about what I do, I do it also as a hobby when I'm not wor
 
 ##Objective
 
-Work as full stack developer in a web development environment, to architecture and build software that matters.
+Work as full stack developer/backend in a web development environment, to architecture and build software that matters.
 
 Be able to create great architectures that solve the problems, having performance and well written software as the goal.
 
@@ -121,7 +121,7 @@ I've worked in a powerpoint convert tool, i was responsible to create a new arch
 
 #### Software Engineer / Project Leader - Cake Development Corporation (February 2013 - September 2013)
 
-I've been working as a CakePHP developer and project leader for a variant of different customers and kind of projects, always looking for to apply the best practices in order to archive the feature requests from customers.
+I've worked as a CakePHP developer and project leader for a variant of different customers and kind of projects, always looking for to apply the best practices in order to archive the feature requests from customers.
 
 * Open Source contributions
 * Code Reviews
@@ -135,7 +135,7 @@ I've been working as a CakePHP developer and project leader for a variant of dif
 ####Software Developer / Project Leader / Head of backend team - Conrad Caine GmbH (March 2008 - January 2013)
 
 I have started as a programmer at Conrad Caine, and in a short period of time I've become a leader developer, and in the end of 2010, I have become the head of Back-End team.
-During this time i've develop more than 50 apps/websites/blogs, most of them leading, architecture, estimating, planning, hiring people, managing resources...
+During this time i've develop more than 50 apps/websites/blogs, most of them: leading, architecture, estimating, planning, hiring people, managing resources...
 
 * Technical Projects Architecture;
 * Projects Estimations;
