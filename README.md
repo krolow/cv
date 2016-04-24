@@ -6,7 +6,6 @@ Vinícius Krolow
 **Site:** http://krolow.com.br<br />
 **Location:** Florianópolis - SC, Brazil
 
-
 I am a passionate programmer. I'm always learning and teaching. My main focus is to write simple code that solves the given problem. For me, simple code leads to, and is itself: reliable, maintainable and has good readability. I'm not a fan boy of any technology, but I like to learn new languages, paradigms and technologies to be able to pick the best option for a given job.
 
 ##Objective
@@ -33,7 +32,7 @@ I have been working in architecture and develop bravi products, in a service ori
 
 - [Bravi Quiz](http://quiz-app.bravi.com.br/)
 - [Bravi News](http://news-app.bravi.com.br/)
-- Bravi Prisma - Evasion oredictions of college students
+- Bravi Prisma
 
 **Stack:** Node.js, Java (Android), Javascript, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic/Single app page, TDD.
 
@@ -49,7 +48,6 @@ I was hired to help in general the company, some parts of my activities and role
 * to be a technical evangelist to spread the company name;
 
 **Stack:** Node.js, Coffescript, Riak, Angular.js, MongoDB, Microservices
-
 
 #### Full Stack Software Developer - Freelance (February 2014 - current)
 
