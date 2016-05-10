@@ -8,6 +8,8 @@ Vinícius Krolow
 
 I am a passionate programmer. I'm always learning and teaching. My main focus is to write simple code that solves the given problem. For me, simple code leads to, and is itself: reliable, maintainable and has good readability. I'm not a fan boy of any technology, but I like to learn new languages, paradigms and technologies to be able to pick the best option for a given job.
 
+A long of the last decaded I have been developing and architecture web applications, for several differents domains, some of those applications envolve: static web sites, mobile API's, mobile apps, domain system languages, file converters, API's, social apps, CMS's, distributed systems, REST API's, cli, web scraper, etc...
+
 ##Objective
 
 I'm looking for a position to work as a full stack developer or backend developer to architecture and build software that matters for end users, where I have technical challange to solve, in a work environment where I'm challanged to keep moving, learning and be able to share and teach other co-workers.
@@ -17,6 +19,7 @@ I'm looking for a position to work as a full stack developer or backend develope
 **Likes**: React, Redux, Functional, OOP, Microservices, Docker, Node.js, Ruby, Rails, Python, Javascript, Angular<br />
 **Dislikes:** .NET (But the .NET API looks good, unfortunally its related to windows env)<br />
 **Willing to work:** Go, Elixir
+
 
 ##Education
 **2008-2009 | Graduation degree in Project Management**<br />
@@ -53,7 +56,7 @@ I was hired to help in general the company, some parts of my activities and role
 
 I have been accepting some contracts/and/freelance a long of the years mainly associated with web development or consultance in technology.
 
-**Stack:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Vagrant, Django, TDD
+**Stack:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Django, TDD
 
 #### Full Stack Software Developer - Snapwire Innovations (September 2013 - August 2014)
 
@@ -80,15 +83,19 @@ I've worked as a CakePHP developer and project leader for a variant of different
 * Customers Consultants
 * Development of Plugins
 * Front-end development
+* Back-end development
+* Architecture of applications
+* REST API designs
 
 **Some parts of stack are:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Croogo, MySQL, PgSQL, Node.js
 
 #### Software Developer / Project Leader / Head of backend team - Conrad Caine GmbH (March 2008 - January 2013)
 
 I have started as a programmer at Conrad Caine, and in a short period of time I've become a leader developer, and in the end of 2010, I have become the head of Back-End team.
-During this time i've develop more than 50 apps/websites/blogs, most of them: leading, architecturing, estimating, planning, hiring people, managing resources...
+During this time I've developed more than 50 apps/websites/blogs, most of them: leading, architecturing, estimating, planning, hiring people, managing resources...
 
 * Technical Projects Architecture;
+* Develop of applications (API's, CMS, Websites, Blogs, Social APP's, Mobile Apps, CLI, Scraper, Convertion Tools, etc...)
 * Projects Estimations;
 * Define technologies to be used;
 * Find and create new solutions improve the development process;
