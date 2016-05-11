@@ -8,7 +8,7 @@ Vinícius Krolow
 
 I am a passionate programmer. I'm always learning and teaching. My main focus is to write simple code that solves the given problem. For me, simple code leads to, and is itself: reliable, maintainable and has good readability. I'm not a fan boy of any technology, but I like to learn new languages, paradigms and technologies to be able to pick the best option for a given job.
 
-A long of the last decaded I have been developing and architecture web applications, for several differents domains, some of those applications envolve: static web sites, mobile API's, mobile apps, domain system languages, file converters, API's, social apps, CMS's, distributed systems, REST API's, cli, web scraper, etc...
+A long of the last decaded I have been developing and architecture web applications, for several differents domains, some of those applications envolve: static web sites, mobile API, mobile apps, domain system languages, file converters, API, social apps, CMS's, distributed systems, REST API, CLI, web scraper, etc...
 
 ##Objective
 
