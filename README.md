@@ -41,7 +41,7 @@ I've been working as Software Engineer in development experience four our intern
 - release management and tools
 - innovation and testing of new practices/languages/tools/protocols
 
-Stack: chatops, mongodb, postgresql, bots, kubernetes, docker, redis, javascript, nodejs, react, ES6, TDD, traefik, etcd, jenkins, rabbitmq, elasticsearch, babeljs
+**Stack:** chatops, mongodb, postgresql, bots, kubernetes, docker, redis, javascript, nodejs, react, ES6, TDD, traefik, etcd, jenkins, rabbitmq, elasticsearch, babeljs
 
 
 #### Full Stack Software Developer - Bravi Software (May 2015 - Jul 2016)
