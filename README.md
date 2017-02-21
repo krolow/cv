@@ -27,7 +27,11 @@ I'm looking for a position to work as a full stack developer or backend develope
 
 ##Professional Experience
 
-### Software Engineer - Auth0 (July 2016 - current)
+### Software Engineer - Broadly (January 2017 - current)
+
+I have been working as a Senior Full Stack Software Engineer at Broadly core product.
+
+### Software Engineer - Auth0 (July 2016 - January 2017)
 
 I've been working as Software Engineer in development experience four our internal crews. Part of the job is related to provide tools/services/automation for the crews in order ensure good practices, code quality and reduce as much as possible all the frictions in deploy/maintain/development of our services/applications.
 
