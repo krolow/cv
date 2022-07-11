@@ -27,9 +27,9 @@ I'm looking for a position to work as a full stack developer or backend develope
 
 ##Professional Experience
 
-### Software Engineer - Broadly (January 2017 - current)
+### Software Engineer - Broadly (January 2017 - April 2021)
 
-I have been working as a Senior Full Stack Software Engineer at Broadly core product.
+I had worked as a Senior Full Stack Software Engineer at Broadly product it involved API backend with REST and Graphql, cordova development of the mobile application, REACT webapp.
 
 ### Software Engineer - Auth0 (July 2016 - January 2017)
 
