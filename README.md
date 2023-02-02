@@ -6,17 +6,19 @@ Vinícius Krolow
 **Site:** http://krolow.com.br<br />
 **Location:** Florianópolis - SC, Brazil
 
-I am a passionate programmer. I'm always learning and teaching. My main focus is to write simple code that solves the given problem. For me, simple code leads to, and is itself: reliable, maintainable and has good readability. I'm not a fan boy of any technology, but I like to learn new languages, paradigms and technologies to be able to pick the best option for a given job.
+I am a passionate programmer. I'm always learning and teaching. My main focus is to write simple code that solves the given problem. For me, simple code leads to, and is itself: reliable, maintainable, and has good readability. I'm not a fanboy of any technology, but I like to learn new languages, paradigms and technologies to be able to pick the best option for a given job.
 
-A long of the last decaded I have been developing and architecture web applications, for several differents domains, some of those applications envolve: static web sites, mobile API, mobile apps, domain system languages, file converters, API, social apps, CMS's, distributed systems, REST API, CLI, web scraper, etc...
+A long of the last decades I have been developing and architecture web applications, for several different domains, some of those applications involve static websites, mobile API, mobile apps, domain system languages, file converters, API, social apps, CMS's, distributed systems, REST API, CLI, web scraper, etc...
 
 ## Objective
 
-I'm looking for a position to work as a full stack developer or backend developer to architecture and build software that matters for end users, where I have technical challange to solve, in a work environment where I'm challanged to keep moving, learning and be able to share and teach other co-workers.
+I'm looking for a position to work as a full stack developer or backend developer to architecture and build software that matters for end users, where I have technical challenges to solve, in a work environment where I'm challenged to keep moving, learning and be able to share and teach other co-workers.
 
 ## Technologies
 
-**Likes**: React, Redux, Functional, OOP, Microservices, Docker, Node.js, Ruby, Rails, Typescript, Javascript<br />
+**Likes**: Typescript, React, Redux, Functional, OOP, Microservices, Docker, Node.js, Javascript, Postgres<br />
+**Willing to work**: Go, Rust, Elixir
+
 
 ## Education
 **2008-2009 | Graduation degree in Project Management**<br />
