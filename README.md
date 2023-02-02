@@ -37,26 +37,26 @@ I have worked as Software Engineer in development experience four our internal c
 **In other words it involves:**
 
 - chatops; automation of process; monitoring;
-- reduce frictions for  local development
-- enable easily deployment of internal applications and services;
+- reduce friction for  local development
+- enable easy deployment of internal applications and services;
 - test new technologies to be used for production;
-- creation/maintain and automation of code quality process;
-- creation/maintain of tools to audit production applications and internal tools;
+- creation/maintenance and automation of code quality process;
+- creation/maintenance of tools to audit production applications and internal tools;
 - release management;
-- facilitate the use of best practices during development cycle;
+- facilitate the use of best practices during the development cycle;
 
 **Challenges / Highlights:**
 
-- introduce best practices in a on going production software;
+- introduce best practices in a ongoing production software;
 - dockerize the development environment;
-- increase visibility for code quality, by adding automation code reviews, tests reports;
+- increase visibility for code quality, by adding automation code reviews, and tests reports;
 
 **Stack:** chatops, mongodb, postgresql, bots, kubernetes, docker, redis, javascript, nodejs, react, ES6, TDD, traefik, etcd, jenkins, rabbitmq, elasticsearch, babeljs
 
 
 ### Full Stack Software Developer - Bravi Software (May 2015 - Jul 2016)
 
-I have been working in architecture and develop bravi products, in a service oriented architecture by applying TDD to write code to create micro-services with scale as guide, those micro-services are running into docker containers, in a continuous integration environment with automation of deploys to our own servers that are running CoreOS.
+I have been working in architecture and developing bravi products, in a service-oriented architecture by applying TDD to write code to create micro-services with scale as guide, those micro-services are running into docker containers, in a continuous integration environment with automation of deploys to our own servers that are running CoreOS.
 
 **Products:**
 
@@ -66,10 +66,10 @@ I have been working in architecture and develop bravi products, in a service ori
 
 **Challenges / Highlights:**
 
-- Microservice oriented architecture using nodejs with support to multi tenant;
-- Real time game state machine for the quiz application;
-- Organization tree to map students of college to enable navigation between nodes, segmentation of data, and prediction averages based on tree nodes;
-- Pipeline to import students for prediction system using cassandra;
+- Microservice-oriented architecture using nodejs with support to multi-tenant;
+- Real-time game state machine for the quiz application;
+- Organization tree to map students of the college to enable navigation between nodes, segmentation of data, and prediction averages based on tree nodes;
+- Pipeline to import students for prediction system using Cassandra;
 
 **Stack:** Node.js, Java (Android), Javascript, Docker, PostgreSQL, RabbitMQ, MongoDB, Jenkins, ElasticSearch, Microservices, Redis, Etcd, React, Redux, ES6, Babeljs, Rx, Universal/Isomorphic/Single app page, TDD.
 
@@ -79,8 +79,8 @@ I was hired to do the middle side between the management department and the deve
 
 Challenges
 
-- Reduce the friction between developers and project manages, by introducing crews oriented per project;
-- Chatops automation to creation of management projects, git repositories, and servers to deploy;
+- Reduce the friction between developers and project managers, by introducing crews oriented per project;
+- Chatops automation to the creation of management projects, git repositories, and servers to deploy;
 - Test and develop using new technologies to open new opportunities for the company and coach develop team about new practices;
 - Support the creative team with technical insights for pitches;
 - Be an evangelist of company culture to help spread the companies name for new hires;
@@ -103,19 +103,19 @@ I have been accepting some contracts/and/freelance a long of the years mainly as
 - Web platform in angular and nodejs to make proctoring of online exams, by identifying the student using face recognition and screen analyze to ensure that students are not cheating in online exams;
 - Parking CMS system multi-tenant with integrations with stripe/authorize.net and parknet
 - Website platform for real stated integrated with their own system;
-- Web platform in python to show electricity consume of electronics equipment;
-- Rotab.us a geotracking platform with real time monitoring, push to talk conversations using WebRTC, and a management platform to handle points of interest and routes;
+- Web platform in python to show electricity consumption of electronics equipment;
+- Rotab.us a tracking platform with real-time monitoring, push-to-talk conversations using WebRTC, and a management platform to handle points of interest and routes;
 - Social game for babaloo using CakePHP
 
 **Stack:** PHP, Ruby, Node.js, Javascript, GIT, HTML, Puppet, Emberjs, Angular.js, Coffescript, MySQL, Mongodb, OpenCV, WebRTC, Express, Compoundb, Titanium, Bootstrap, Firebase, Vagrant, Puppet, Symphony 2, Rails 4, Emberjs, Phonegap / Ionic, AWS, Heroku, Django, TDD
 
 ### Full Stack Software Developer - Snapwire Innovations (September 2013 - August 2014)
 
-I worked as full stack developer, creating a new parking platform, been working remote with a distributed team, working in backend with node.js, front-end with angular/backbone, creating automation tools process to generate reports, real-time dashboards and a mobile app written in titanium;
+I worked as a full stack developer, creating a new parking platform, working remote with a distributed team, working in backend with node.js, front-end with angular/backbone, creating automation tools process to generate reports, real-time dashboards and a mobile app written in titanium;
 
 **Challenges / Highlights:**
 
-- Real time dashboard to show the states of every vehicles zones and car gates;
+- Real-time dashboard to show the states of every vehicles zones and car gates;
 - TCP communication with gates barriers;
 - Mobile application to create the totem iteration with parking users;
 - Manager application to handle all aspects of parking: customers, recurring customers, prices, payments, zones, places, etc...
@@ -131,7 +131,7 @@ I've worked in Sales2go, a sales platform synchronization. One of our main custo
 
 - The presentations (slides) in use were all created using Powerpoint with all the fancy animations and iterations, at the given time there were not such application in mobile that handle all the features of powerpoint native, so it was necessary to create an conversion process of these slides to provide the content as images/videos for the mobile applications be able to handle the same behavior that the presentations had in powerpoint;
 - Creation of an abstract CMS that would handle any hierarchy tree based on our customers kind of projects;
-- Architecture a new pipeline to convert media, to be use multiple process and scale for tons of customers, it was achieved by introduced a distrusted architecture of multiple workers;
+- Architecture a new pipeline to convert media, to be use multiple processes and scale for tons of customers, it was achieved by introduced a distrusted architecture of multiple workers;
 - Versioning system to keep mobile apps updated with changes in meta data and media files;
 
 **Stack:** PHP, Symfony 2, Javascript, Jquery, HTML, CSS, Silex, Cilex, Windows Powerpoint COM, REST, MySQL, Puppet, Vagrant
@@ -143,15 +143,15 @@ I worked as a CakePHP expert at the company behind the framework CakePHP. During
 - Code reviews;
 - Creation of features;
 - Refactoring applications;
-- Teaching the best pratices;
+- Teaching the best practices;
 - Front-end development;
 - CakePHP plugins to accomplish customer needs;
 
 **Challenges / Highlights**
 
-- Migrate legacy codes to a CakePHP oriented architecture;
-- Creation of CMS on top of CakePHP to accomplish customers needs;
-- Write a system to synchronize data between online and offline servers for customer use the application at art events;
+- Migrate legacy codes to a CakePHP-oriented architecture;
+- Creation of CMS on top of CakePHP to accomplish customers' needs;
+- Write a system to synchronize data between online and offline servers for customers use the application at art events;
 - Architecture and implement an API translator platform, where it was able to translate API protocols like SOAP to REST, XHTTP, etc..
 
 **Stack:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Croogo, MySQL, PgSQL, Node.js
@@ -165,11 +165,11 @@ I have started as a programmer at Conrad Caine, and in a short period of time I'
 - Technical Projects Architecture;
 - Projects Estimations;
 - Define technologies to be used;
-- Find and create new solutions improve the development process;
+- Find and create new solutions to improve the development process;
 - Lead Development Teams;
-- Control the Team work;
+- Control the Teamwork;
 - Control the Team projects;
-- Apply Training for the Backend Team;
+- Apply for Training for the Backend Team;
 - Create assignments for the Backend Team;
 - Define standards for the team;
 - Create solutions for any task or problem that arises.
@@ -180,9 +180,9 @@ I have started as a programmer at Conrad Caine, and in a short period of time I'
 - Drupal CMS for large companies like http://aeksh.de
 - SMS marketing platform 
 - Real-time pac man game to be used in events, where players could use their mobile to scan a qr code and open one website that would control the pac man game in a big screen;
-- Reputeer a product to keep track of people reputation, by doing crawlers that get data from facebook, linkedin, twitter, web news, to keep people informed about their reputation at internet;
-- Realtime dashboard for Siemens, showing all information related to company, like news, social medias, twitter, everything that people were saying about the company;
-- Youtube marketing platform to upload videos cross channels, and dashboard to easily check the views numbers of those multiples channels;
+- Reputeer a product to keep track of people's reputations, by doing crawlers that get data from facebook, linkedin, twitter, web news, to keep people informed about their reputation at internet;
+- Realtime dashboard for Siemens, showing all information related to the company, like news, social medias, twitter, everything that people were saying about the company;
+- Youtube marketing platform to upload videos across channels, and dashboard to easily check the views numbers of those multiples channels;
 - Several hotsites, facebook apps, CMS
 
 **Stack:** PHP, CakePHP, Javascript, Jquery, HTML, CSS, Vagrant, Puppet, Node.js, Python, Flask, Ruby, Rails, MySQL, PgSQL, REST, Symfony 2, Zend, Wordpress, Drupal, Typo3, Silex, Objective-C
@@ -194,13 +194,13 @@ Owner and Software developer, mainly working with web development based on CakeP
 **Stack:** PHP, CakePHP
 
 ### Backend developer - Wvtrês (November 2005 - January 2008)
-Working in several web site for local business, using CakePHP and Template Power.
+Working on several web site for local businesses, using CakePHP and Template Power.
 
 I got involved in the development of more than 20 websites a long of this time, most of the jobs are related with custom CMS creations to attend the customer needs.
 
 Challenges
 
 - CMS platform for large horse creators (Cavalos Crioulos), by integrating their offline data to the web;
-- CMS to create multi tenant sites containing: photo album, news, articles, blogs, etc...
+- CMS to create multi-tenant sites containing: photo albums, news, articles, blogs, etc...
 
 **Stack:** PHP 4, CakePHP, Javascript, Template Power
