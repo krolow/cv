@@ -26,11 +26,13 @@ I'm looking for a position to work as a full stack developer or backend develope
 
 ### Software Engineer - Broadly (January 2017 - April 2021)
 
-I had worked as a Senior Full Stack Software Engineer at Broadly product it involved API backend with REST and Graphql, cordova development of the mobile application, REACT webapp.
+I have worked as a Senior Full Stack Software Engineer at Broadly product, it involved work with REST and Graphql in the backend side together with mongodb, express. In the front end react, redux, apollo and cordova to create the mobile application.
+
+**Stack:** mongodb, react, redux, apollo, sqs, redis, beanstalk, cordova, phonegap, circleci, twilio 
 
 ### Software Engineer - Auth0 (July 2016 - January 2017)
 
-I've been working as Software Engineer in development experience four our internal crews. Part of the job is related to provide tools/services/automation for the crews in order ensure good practices, code quality and reduce as much as possible all the frictions in deploy/maintain/development of our services/applications.
+I have worked as Software Engineer in development experience four our internal crews. Part of the job is related to provide tools/services/automation for the crews in order ensure good practices, code quality and reduce as much as possible all the frictions in deploy/maintain/development of our services/applications.
 
 **In other words it involves:**
 
